@@ -1,2 +1,2 @@
 # sketch_pad
-Odin Project sketchpad
+Odin Project sketchpad project
